@@ -3,6 +3,7 @@
 This is my fork of Sonamenil's Vector 2 Unity project, with mod support added.
 
 You can load custom rooms, textures, models, animations, audio and chapters. I made the [Vector 2 SDK](https://github.com/Ghost29012/Vector-2-SDK) editor to go alongside it, so you don't have to do everything by hand in XML.
+The Windows version is downloadable here: https://github.com/tomdev290/Vector-2-SDK-Windows/releases/tag/Release 
 
 Mod-support work by Ghost29012 / ghosted.
 
